@@ -1,0 +1,20 @@
+Event Name: Software Engineering Starter Kit
+Date: 9/10/18
+Location & Time: Babbio 202 9:00PM
+
+At this event, the Software Engineering Club E-board introduced themselves:
+President: Blake Zimmerman
+Vice-President: Bruno Salgado
+Treasurer: Allen Best
+Secretary: Eleni Rotsides
+Event Coordinator: Sarah Wiessler
+
+The powerpoint was presented to the club (Software Engineering Starter Kit.pdf) and the floor was opened up to any questions.
+
+The club then engaged in two coding challenges using codesignal.com. The two challenges involved creating functions to determine whether an inputted string was a palindrome or not, and determining the max difference between values in an array.
+The challenges could be completed in any language.
+
+It was noted that the club had members that either were very enthusiastic and seasoned developers, and engineers who had just started their Software Engineering journey who needed help on the basics of programming.
+The e-board has taken this into account and will tailor the next event towards catering to these two demographics.
+
+Thank you to everyone who came to the event!
